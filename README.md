@@ -23,6 +23,6 @@
 
 友情链接：
 =============
- - 1：[![Author](科学镜面博客)](https://www.kexuemax.cn/)
- - 2：[![Author](科学镜面梯子)](https://www.scimir.cn/)
- - 3：[![Author](科学镜面 IDC)](http://www.kexueidc.cn/)
+ - 1：[(科学镜面博客)](https://www.kexuemax.cn/)
+ - 2：[(科学镜面梯子)](https://www.scimir.cn/)
+ - 3：[(科学镜面 IDC)](http://www.kexueidc.cn/)
