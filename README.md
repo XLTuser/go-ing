@@ -20,3 +20,9 @@
 <p>您的赞助是我们继续开发的莫大动力！！！</p>
 <p>微信：XLT520A</p>
 <p></p>QQ：3356643902</p>
+
+友情链接：
+=============
+ - 1：[![Author](科学镜面博客)](https://www.kexuemax.cn/)
+ - 2：[![Author](科学镜面梯子)](https://www.scimir.cn/)
+ - 3：[![Author](科学镜面 IDC)](http://www.kexueidc.cn/)
